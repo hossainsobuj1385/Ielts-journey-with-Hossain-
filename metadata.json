@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Journey with Hossain",
+  "description": "Complete Telegram learning platform, Mini App, and Admin Panel for IELTS learners with lessons, Google Drive PDFs, progress tracking, comments, and support chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
